@@ -1,4 +1,4 @@
-# Projeto Portfólio Pessoal
+# Projeto Portfólio Pessoal - Aula
 
 <div align="center"> 
 	<img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" alt="HTML Badge" /> 
@@ -6,7 +6,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" /> 
 </div>
 
-Este é o repositório do meu site portfólio pessoal, desenvolvido com HTML, CSS e JavaScript. O site inclui informações sobre mim, meus projetos, habilidades e formas de contato.
+Este é o repositório preparado para ministar aula sobre portfólio pessoal, desenvolvido com HTML, CSS e JavaScript. O site inclui informações de sobre, meus projetos, habilidades e formas de contato.
 
 ## Tecnologias Utilizadas
 
@@ -45,6 +45,3 @@ Este site está disponível publicamente através do **GitHub Pages**. Você pod
 
 - [Portfólio Pessoal](https://seu-usuario.github.io/seu-repositorio)
 
-## Contribuindo
-
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um **pull request**.# portifolio-aula-generation
